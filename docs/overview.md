@@ -1,3 +1,3 @@
 # Overview over the Print & Packaging documentation
 
-THis is thlalfjlasdjklfasd
+This demonstrates the documentation capabilities of GitHub.
