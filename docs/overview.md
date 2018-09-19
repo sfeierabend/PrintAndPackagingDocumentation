@@ -12,3 +12,4 @@ This demonstrates the documentation capabilities of GitHub.
 |A| This is an A|
 |B| This is a B |
 
+![Alternative Text](logo_mail.png)
